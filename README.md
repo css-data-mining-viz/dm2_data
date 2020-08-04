@@ -1,2 +1,3 @@
 # dm2_data
-Repo for day 2 of data mining
+
+Here is the repo for extra data and files needed for day 2 of data mining (day 7 of the course).
